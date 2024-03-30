@@ -1,0 +1,268 @@
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\BCrypt.Net.dll
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\CryptSharp.dll
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\BCrypt.Net.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\BCrypt.Net.xml
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\CryptSharp.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\bin\Debug\CryptSharp.xml
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.csproj.GenerateResource.Cache
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.AddBdTruck.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.ReportViewForm.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\WindowsFormsApplication1\obj\Debug\ScaleApp.LoginForm.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.Cache
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+D:\desktop-app\WeighScale\Benapole\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.Cache
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojAssemblyReference.cache
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+D:\nnnnnnnnnnnnnnnnnnnn\Visual Studio 2012\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojAssemblyReference.cache
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.UserCreationForm.resources
+C:\Users\Sumon\Documents\Visual Studio 2017\Projects\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.UpdateScaleForm.resources
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+E:\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojResolveAssemblyReference.cache
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.Cache
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+E:\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+E:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojResolveAssemblyReference.cache
+E:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.Cache
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+F:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojResolveAssemblyReference.cache
+F:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.BDTruckManifestWtEntry.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+H:\file\scale\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.AssemblyReference.cache
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.BDTruckManifestWtEntry.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+H:\file\scale\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojAssemblyReference.cache
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.BDTruckManifestWtEntry.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+H:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojAssemblyReference.cache
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.BDTruckManifestWtEntry.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+F:\share41\SumonRoy\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe.config
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.exe
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\ScaleApp.pdb
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.dll
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.dll
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\mysql.data.entity.dll
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.pdb
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\BCrypt.Net.xml
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.pdb
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\bin\Debug\CryptSharp.xml
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.AddBdTruck.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.BDTruckManifestWtEntry.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.EncryptDecrypt.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.updateScaleForm.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.userCreationForm.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighbridgeEntry.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.Properties.Resources.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.ReportViewForm.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.WeighBridgeExitReport.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.LoginForm.resources
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.csproj.CopyComplete
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.exe
+C:\Users\HP\Desktop\java service\BenapoleScaleApp\ScaleApp\obj\Debug\ScaleApp.pdb
